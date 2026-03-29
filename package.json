@@ -24,7 +24,7 @@
     "@cloudflare/wrangler": "^1.8.4",
     "clean-webpack-plugin": "^3.0.0",
     "concurrently": "^5.1.0",
-    "copy-webpack-plugin": "^5.1.1",
+    "copy-webpack-plugin": "^14.0.0",
     "css-loader": "^3.5.2",
     "csv-parse": "^4.8.9",
     "focus-visible-polyfill": "^0.1.0",
@@ -33,8 +33,8 @@
     "lodash.pickby": "^4.6.0",
     "mini-css-extract-plugin": "^0.9.0",
     "optimize-css-assets-webpack-plugin": "^5.0.3",
-    "terser-webpack-plugin": "^2.3.5",
-    "webpack": "^4.42.1",
+    "terser-webpack-plugin": "^5.4.0",
+    "webpack": "^5.105.4",
     "webpack-cli": "^3.3.11"
   }
 }
